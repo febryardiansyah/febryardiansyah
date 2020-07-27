@@ -2,6 +2,8 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=febryardiansyah&show_icons=true&theme=radical)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=febryardiansyah&repo=animku&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=febryardiansyah&repo=manga-api&theme=nightowl)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=febryardiansyah&layout=compact&theme=nightowl)
 
 <a href="https://www.instagram.com/febry_ardiansyah24" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/febry.ardiansyah.792/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
